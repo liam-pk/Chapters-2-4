@@ -1,6 +1,6 @@
 import turtle 
 
-turtle.tracer(2)
+turtle.tracer(1) #speed up to 2 for faster tracing
 
 spiral = turtle.Turtle()
 
